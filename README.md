@@ -1,6 +1,5 @@
 # 中山大学人工智能实验项目
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lumos706.SYSU_Artificial_Intelligence
-&left_color=green&right_color=red)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lumos706.SYSU_Artificial_Intelligence)
 ## 项目简介
 这是2022级中山大学人工智能实验项目的代码库。
 
