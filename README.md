@@ -23,3 +23,6 @@
 克隆代码库到本地：
    ```bash
    git clone https://github.com/lumos706/SYSU_Artificial_Intelligence.git
+```
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Lumos706.SYSU_Artificial_Intelligence
+&left_color=green&right_color=red)
